@@ -1,5 +1,5 @@
 function isEqual (number) {
-    if (number %2) {
+    if (number %2 == 0) {
         console.log("Die zahl ist gerade"); 
     } else {
         console.log("Die zahl ist ungerade");
