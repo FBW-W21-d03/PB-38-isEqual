@@ -10,12 +10,12 @@ function isEqual() {
 */
 
 
-function istgerade(wert) {
+function isEqual(wert) {
     if (wert%2 == 0)
      console.log("gerade");
       else{
      console.log("ungerade") ;
    }
    }
-   istgerade(14);
-   istgerade(17);
+   isEqual(14);
+   isEqual(17);
