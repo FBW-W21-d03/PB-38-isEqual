@@ -8,4 +8,4 @@ function isEqual(number) {
 }
 
 isEqual(14);
-isEqual(17);
+isEqual(18);
